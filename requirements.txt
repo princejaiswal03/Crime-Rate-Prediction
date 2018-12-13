@@ -1,0 +1,11 @@
+Requirements:
+1.Python 2.7 or greater 
+2.Flask framework----->pip install Flask
+3.Flask Wtfroms---->pip install Flask-WTF
+4.Flask Mysqldb----->pip install flask-mysql
+5.Flask Mail-------->pip install Flask-Mail
+6.Passlib.hash---->pip install passlib
+7.Numpy------>pip install python-numpy
+8.SciPy------>python -m install scipy
+9.Scikit-learn----->pip install -U scikit-learn
+
