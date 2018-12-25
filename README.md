@@ -14,14 +14,15 @@ The working of our system can be understand in mainly three steps:
 
 ## Requirements of this System
 
- 1. **Python 2.7**: Download the setup of python from [here](https://www.python.org/downloads/)
- 2. **Flask**:
- 3. Flask-WTForms
- 4. Flask-MySQLdb
- 5. Flask-Mail
- 6. Python-Numpy
- 7. SciPy
- 8. Scikit-learn
- 9. Passlib
-
-
+ 1. **Python 2.7**: Download the setup of python from [here](https://www.python.org/downloads/) and install.
+ 2. Install virtual environment using command `pip install virtualenv`
+ 3. Create  a virtual environment using `virtualenv ENV`
+ 4. Activate virtual environment using `source ENV/bin/activate`
+ 5. **Flask**: Install Flask using `pip install Flask`. For detail information regarding Flask see [documentation](http://flask.pocoo.org/docs/).
+ 6. **Flask-WTForms**: Install Flask-WTForms using as `pip install Flask-WTF`. For more information see [Flask-WTForms documentation](http://flask.pocoo.org/docs/0.12/patterns/wtforms/)   
+ 7. **Flask-MySQLdb**: Install Flask-MySQLdb using `pip install flask-mysql`. See [Flask-MySQLdb documentation](https://flask-mysqldb.readthedocs.io/en/latest/) for more information.
+ 8. Flask-Mail
+ 9. Python-Numpy
+ 10. SciPy
+ 11. Scikit-learn
+ 12. Passlib
