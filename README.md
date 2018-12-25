@@ -21,8 +21,11 @@ The working of our system can be understand in mainly three steps:
  5. **Flask**: Install Flask using `pip install Flask`. For detail information regarding Flask see [documentation](http://flask.pocoo.org/docs/).
  6. **Flask-WTForms**: Install Flask-WTForms using as `pip install Flask-WTF`. For more information see [Flask-WTForms documentation](http://flask.pocoo.org/docs/0.12/patterns/wtforms/)   
  7. **Flask-MySQLdb**: Install Flask-MySQLdb using `pip install flask-mysql`. See [Flask-MySQLdb documentation](https://flask-mysqldb.readthedocs.io/en/latest/) for more information.
- 8. Flask-Mail
- 9. Python-Numpy
- 10. SciPy
- 11. Scikit-learn
- 12. Passlib
+ 8. **Flask-Mail**: Install Flask-Mail using `pip install Flask-Mail`. See the [documentation](http://packages.python.org/Flask-Mail/) for more.
+ 9. **SciPy**: Install SciPy using `python -m install scipy`. See [here for more reference](https://docs.scipy.org/doc/scipy/reference/) 
+ 11. **Python-Numpy**: Install Numpy using `pip install python-numpy`. See [documentation](https://docs.scipy.org/doc/) for more.
+ 12. **Scikit-learn**: Install Scikit-learn using `pip install -U scikit-learn`.See [](https://scikit-learn.org/stable/documentation.html) for more details
+ 13. **Passlib**: Install Passlib using `pip install passlib`. See Passlib [documentation](https://passlib.readthedocs.io/en/stable/) for more details.
+
+
+
