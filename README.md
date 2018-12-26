@@ -1,8 +1,8 @@
 # Crime Rate Prediction System
-Today, crime rate is a menace that our country faces. Everyday the newspapers reports ghastly murders, sensational robberies, rapes, thefts and kidnappings. Naturally the graph of crime in today's society is sharply on the rise.
-It is said that society has an immediate impact in making hoodlums. Government forced numerous laws to diminish wrongdoing rate to improve world a place to live in, however larger part did not discover anticipated outcomes.
+Nowadays, crime rate is a menace that our country faces. Everyday when you wake up with a cup of tea/coffee in one hand and a newspapers in another, the major headlines reports ghastly murders, sensational robberies, rapes, thefts and kidnappings each day. Its nowhere wrong to say that the crime rate in today's society is sharply on the rise.
+It is said that society has an immediate impact in making hoodlums. Government implemented numerous laws to diminish wrongdoing rate to improve the country's stability, however the larger part did not discover anticipated outcomes.
 
-This crime rate prediction system takes the crime records  from various sources like police department, social media, manual inputs, etc.Then  an analysis on that crime records is done.Based on the analysis made a prediction is made about the crime pattern. This prediction tells which crime is increasing in our society.
+This crime rate prediction system takes the crime records  from various sources like police department, social media, manual inputs, etc and creates an analysis on that crime records. Based on this analysis, predictions are made about the crime pattern which will help us concluding the crimes that are on peak.
 
 ## Working of this System
 
